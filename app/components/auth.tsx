@@ -31,6 +31,10 @@ export function AuthPage() {
       </div>
 
       <div className={styles["auth-title"]}>{Locale.Auth.Title}</div>
+      <div className={styles["qrcode"]}>
+        {/* // 插入图片，地址为：Locale.Auth.Qrcode */}
+        <img src={Locale.Auth.Qrcode} alt="qrcode" />
+      </div>
       <div className={styles["auth-tips"]}>{Locale.Auth.Tips}</div>
 
       <input
