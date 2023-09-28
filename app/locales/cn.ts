@@ -12,7 +12,7 @@ const cn = {
   },
   Auth: {
     Title: "设置访问码",
-    Tips: "扫码关注公众号，发送“AI密码”获取"",
+    Tips: "扫码关注公众号，发送“AI密码”获取",
     Input: "在此处填写访问码",
     Confirm: "确认",
     Later: "稍后再说",
