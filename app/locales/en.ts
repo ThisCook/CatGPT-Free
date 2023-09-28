@@ -9,8 +9,8 @@ const en: LocaleType = {
   WIP: "Coming Soon...",
   Error: {
     Unauthorized: isApp
-      ? "Invalid API Key, please check it in [Settings](/#/settings) page."
-      : "Unauthorized access, please enter access code in [auth](/#/auth) page, or enter your OpenAI API Key.",
+      ? "Unauthorized access, please enter access code in [auth](/#/auth) page."
+      : "Unauthorized access, please enter access code in [auth](/#/auth) page.",
   },
   Auth: {
     Title: "Need Access Code",
@@ -18,6 +18,7 @@ const en: LocaleType = {
     Input: "access code",
     Confirm: "Confirm",
     Later: "Later",
+    Qrcode: "https://gosh.im/qr/ad.jpg",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} messages`,
