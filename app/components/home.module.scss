@@ -149,6 +149,16 @@
   font-size: 20px;
   font-weight: bold;
   animation: slide-in ease 0.3s;
+
+  span {
+    color: #222;
+    background: linear-gradient(to right,#f7dba7 0,#f7dba7 50%,#e9bd6c 100%);
+    font-size: 14px;
+    padding: 0px 4px;
+    border-radius: 3px;
+    font-weight: normal;
+    margin-left: 3px;
+  }
 }
 
 .sidebar-sub-title {
