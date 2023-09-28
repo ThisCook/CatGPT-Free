@@ -428,6 +428,7 @@
 }
 
 .chat-message-user > .chat-message-container > .chat-message-item {
+  border-radius: 10px 10px 0 10px;
   background-color: var(--second);
 
   &:hover {
