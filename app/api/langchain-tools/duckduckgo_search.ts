@@ -508,7 +508,7 @@ function sanityCheck(options: SearchOptions) {
 }
 
 export class DuckDuckGo extends Tool {
-  name = "联网搜索";
+  name = "duckduckgo_search";
   maxResults = 4;
 
   /** @ignore */

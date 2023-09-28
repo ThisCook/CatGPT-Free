@@ -3,7 +3,7 @@ import { convert as htmlToText } from "html-to-text";
 import { Tool } from "langchain/tools";
 
 export class DuckDuckGo extends Tool {
-  name = "联网搜索";
+  name = "duckduckgo_search";
   maxResults = 4;
 
   /** @ignore */
