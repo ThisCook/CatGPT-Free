@@ -18,7 +18,7 @@ const en: LocaleType = {
     Input: "access code",
     Confirm: "Confirm",
     Later: "Later",
-    Qrcode: "https://gosh.im/qr/ad.jpg",
+    Qrcode: "https://filesystem.site/cdn/3cf4b57d-52bf-475d-89a7-0e1d9f5202ae.png",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} messages`,
