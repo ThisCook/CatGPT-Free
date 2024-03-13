@@ -16,7 +16,7 @@ const cn = {
     Input: "在此处填写访问码",
     Confirm: "确认",
     Later: "稍后再说",
-    Qrcode: "https://filesystem.site/cdn/3cf4b57d-52bf-475d-89a7-0e1d9f5202ae.png",
+    Qrcode: "https://oss-yyds.api4gpt.com/files%2Fqrcode-gosh.png",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
